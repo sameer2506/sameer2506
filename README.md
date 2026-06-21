@@ -201,7 +201,7 @@
 
 <div align="center">
 
-  <a href="https://nbarkiya.xyz/contact">
+  <a href="https://sameer-dev.netlify.app/contact">
     <img src="https://img.shields.io/badge/OPEN_FOR-AI_CONSULTANCY-E8734A?style=flat-square&labelColor=0D0D0D" alt="Open for work" />
   </a>
 
