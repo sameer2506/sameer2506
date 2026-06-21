@@ -1,0 +1,25 @@
+name: Generate Profile Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: sameer2506
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: profile-summary-card-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
