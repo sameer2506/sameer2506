@@ -1,0 +1,35 @@
+<svg width="840" height="220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="840" height="220" fill="#0A0A0A"/>
+
+  <!-- Outer border box -->
+  <rect x="16" y="16" width="808" height="188" fill="none" stroke="#2A2A2A" stroke-width="1.5"/>
+
+  <!-- Orange accent bar (left) -->
+  <rect x="16" y="16" width="4" height="188" fill="#E8734A"/>
+
+  <!-- Orange accent bar (top-left corner) -->
+  <rect x="16" y="16" width="120" height="4" fill="#E8734A"/>
+
+  <!-- Name -->
+  <text x="44" y="75" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="34" fill="#F5F5F5" font-weight="700" letter-spacing="2">SAMEER KUMAR</text>
+
+  <!-- Title -->
+  <text x="44" y="112" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="16" fill="#888888" font-weight="400">Applied AI Engineer  ·  Product Builder </text>
+
+  <!-- Tagline -->
+  <text x="44" y="155" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="13" fill="#E8734A" font-weight="400">// shipping AI products from idea to production</text>
+
+  <!-- Bottom-right corner accent -->
+  <rect x="704" y="200" width="120" height="4" fill="#E8734A"/>
+  <rect x="820" y="84" width="4" height="120" fill="#E8734A"/>
+
+  <!-- Small decorative dot -->
+  <circle cx="790" cy="60" r="6" fill="#E8734A"/>
+</svg>
