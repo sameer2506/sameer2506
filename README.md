@@ -186,13 +186,13 @@
 ## Stats
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=namanbarkiya&theme=github_dark" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=namanbarkiya&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=E8734A&fire=E8734A&currStreakLabel=E8734A&sideLabels=888888&sideNums=F5F5F5&currStreakNum=F5F5F5&dates=555555" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameer2506&theme=github_dark" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sameer2506&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=E8734A&fire=E8734A&currStreakLabel=E8734A&sideLabels=888888&sideNums=F5F5F5&currStreakNum=F5F5F5&dates=555555" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namanbarkiya&theme=github_dark" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namanbarkiya&theme=github_dark&utcOffset=5.5" alt="Commit Activity" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer2506&theme=github_dark" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameer2506&theme=github_dark&utcOffset=5.5" alt="Commit Activity" />
 </div>
 
 <br/>
@@ -207,7 +207,7 @@
 
 <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=namanbarkiya&style=flat-square&color=E8734A&labelColor=0D0D0D&label=VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sameer2506&style=flat-square&color=E8734A&labelColor=0D0D0D&label=VIEWS" alt="Profile views" />
 
 </div>
 
