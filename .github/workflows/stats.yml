@@ -2,7 +2,7 @@ name: Generate Profile Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,13 +11,17 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: sameer2506
+          BRANCH_NAME: main
         env:
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
